@@ -1,6 +1,6 @@
 # Hi there, I’m Anshu! 👋
 
-## 👩‍💻 Software Developer | Python & Java Enthusiast | Web Developer
+## Software Developer | Python & Java Enthusiast | Web Developer
 
 Welcome to my GitHub space!  
 I’m a **BCA graduate** from **Nehru Arts and Science College**, affiliated with **Bharathiar University**.
